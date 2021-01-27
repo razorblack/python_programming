@@ -1,8 +1,11 @@
-char = '*'
-for i in range(1, 4):
-    for j in range(1, 7):
-        if i == 2 and 1 < j < 6:
-            print(' ', end=' ')
-        else:
+def pattern(N):
+    char = '*'
+    for i in range(N):
+        for k in range(i):
+            print(" ", end='')
+        for j in range(N):
             print(char, end=' ')
-    print("")
+        print("")
+
+
+pattern(5)

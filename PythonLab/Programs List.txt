@@ -1,3 +1,33 @@
-Programs List For Python Lab
+        Programs List For Python Lab
+==================================================
 
-1.
+1. To write a python program that takes in command line arguments
+    as input and print the number of arguments.
+
+2.1 To write a python program to perform Matrix Multiplication.
+
+2.2 To write a python program to compute the GCD of two numbers
+
+3. To write a python program to find the most frequent words in a
+    text file
+
+4.1  To write a python program find the square root of a Number
+        (Newton’s method)
+
+4.2  To write a python program exponentiation (power of a number)
+
+5.   To write a python program find the maximum of a list of numbers.
+
+6.1  To write a python program linear search.
+
+6.2  To write a python program Binary search.
+
+7.1  To write a python program selection sort
+
+7.2  To write a python program Insertion sort
+
+8.  To write a python program merge sort.
+
+9.  To write a python program first n prime numbers.
+
+10. To write a python program simulate bouncing ball in Pygame.
