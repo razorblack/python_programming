@@ -1,0 +1,5 @@
+Hello World!! This is Avinash Maurya.
+Hope you enjoyed the weekend.
+This is added to this file 
+Through file operations 
+in python. 
