@@ -8,11 +8,11 @@ screen = pygame.display.set_mode((800, 600))
 
 # Set Title and Icon
 pygame.display.set_caption("Bouncing Ball Simulator")
-icon = pygame.image.load("basketball-ball.png")
+icon = pygame.image.load("AssetsProgram10/basketball-ball.png")
 pygame.display.set_icon(icon)
 
 # Player Image
-playerImg = pygame.image.load("ball.png")
+playerImg = pygame.image.load("AssetsProgram10/ball.png")
 playerX = 400
 playerY = 540
 
@@ -20,7 +20,7 @@ def player():
     screen.blit(playerImg, (playerX, playerY))
 
 def playButtion():
-    playBtn = pygame.image.load("play-button.png")
+    playBtn = pygame.image.load("AssetsProgram10/play-button.png")
     playBtnX = 350
     playBtnY = 230
     screen.blit(playBtn, (playBtnX, playBtnY))

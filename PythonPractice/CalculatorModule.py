@@ -1,3 +1,5 @@
+# Calculator module file to be imported in Calci.py
+
 def add(a, b):
     return a + b
 

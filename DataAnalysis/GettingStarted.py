@@ -1,3 +1,5 @@
+# Checking Versions of libraries
+
 import numpy
 print("numpy: ", numpy.__version__ )
 import matplotlib
@@ -11,4 +13,4 @@ print("scipy: ", scipy.__version__ )
 import seaborn
 print("seaborn: ", seaborn.__version__ )
 
-print("AL ML libraries for AI is working successfully")
+print("Libraries are working successfully")
