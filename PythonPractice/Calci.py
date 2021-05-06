@@ -1,12 +1,12 @@
-import calcaulatorModule
+import CalculatorModule
 
 x = int(input("Enter a no:  "))
 y = int(input("Enter a no:  "))
 
-add_res = calcaulatorModule.add(x, y)
-sub_res = calcaulatorModule.subtract(x, y)
-multi_res = calcaulatorModule.multiply(x, y)
-div_res = calcaulatorModule.divide(x, y)
+add_res = CalculatorModule.add(x, y)
+sub_res = CalculatorModule.subtract(x, y)
+multi_res = CalculatorModule.multiply(x, y)
+div_res = CalculatorModule.divide(x, y)
 
 
 print(add_res)
