@@ -11,23 +11,25 @@ def multiplication(X, Y, Z):
     # Printing multiplied matrix
     printmatrix(Z)
 
+
 def printmatrix(X):
     for row in X:
         print(row)
     print()
 
+
 # 3x3 matrix
 X = [[12, 7, 3],
-    [4, 5, 6],
-    [7, 8, 9]]
+     [4, 5, 6],
+     [7, 8, 9]]
 # 3x4 matrix
 Y = [[5, 8, 1, 2],
-    [6, 7, 3, 0],
-    [4, 5, 9, 1]]
+     [6, 7, 3, 0],
+     [4, 5, 9, 1]]
 # result is 3x4
 result = [[0, 0, 0, 0],
-         [0, 0, 0, 0],
-         [0, 0, 0, 0]]
+          [0, 0, 0, 0],
+          [0, 0, 0, 0]]
 
 print("First Matrix is:")
 printmatrix(X)

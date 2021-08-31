@@ -8,7 +8,6 @@ sub_res = CalculatorModule.subtract(x, y)
 multi_res = CalculatorModule.multiply(x, y)
 div_res = CalculatorModule.divide(x, y)
 
-
 print(add_res)
 print(sub_res)
 print(multi_res)

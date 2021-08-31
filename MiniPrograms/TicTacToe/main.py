@@ -30,6 +30,7 @@ def draw_figures():
             if board[row][col] == 2:
                 pass
 
+
 # Draw Lines on screen
 def draw_lines():
     # Horizontal lines
@@ -50,6 +51,7 @@ def available_square(row, col):
         return True
     else:
         return False
+
 
 def is_board_full():
     for row in range(3):

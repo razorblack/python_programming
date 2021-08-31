@@ -1,2 +1,4 @@
-# python_programming
-A repo containing all python learning and practicing programs.
+# Python Programming
+___
+
+#### A repo containing python practicing programs by [Razorblack](https://github.com/razorblack)

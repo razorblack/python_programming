@@ -1,5 +1,4 @@
 def linearSearch(array, n, x):
-
     # Going through array (searching)
     for i in range(0, n):
         if array[i] == x:

@@ -9,6 +9,5 @@ def powXY(x, y):
     return answer
 
 
-
 result = powXY(27, 3)
 print(result)

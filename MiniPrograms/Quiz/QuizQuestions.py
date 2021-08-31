@@ -12,11 +12,14 @@ question_answer = [1, 2, 2, 2, 4]
 
 question_list_size = len(question_list)
 
+
 def list_size():
     return question_list_size
 
+
 def quiz_question(question_number):
     print(f"Ques {question_number + 1}: {question_list[question_number]}")
+
 
 def quiz_answers(question_number):
     return question_answer[question_number]

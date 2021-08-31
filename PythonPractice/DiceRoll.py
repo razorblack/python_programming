@@ -1,4 +1,5 @@
 import random
+
 print("Enter 'y' to start rolling dice or 'n' to stop")
 res = input("y or n \n")
 while res == "y":

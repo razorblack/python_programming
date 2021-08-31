@@ -51,9 +51,11 @@ pygame.mixer.music.set_volume(0.7)
 def player(playerX, playerY):
     screen.blit(playerImg, (playerX, playerY))
 
+
 # Method to load paused image in game
 def showPausedImage():
     screen.blit(pausedImg, (pausedImgX, pausedImgY))
+
 
 # Method to load instruction image in game
 def showInstruction():
